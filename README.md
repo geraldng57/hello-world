@@ -1,1 +1,3 @@
 # hello-world
+
+Hi, this is really interesting; setting up my own code base...
